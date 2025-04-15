@@ -63,6 +63,8 @@ project/
 
 **To create Grafana dashboards:**
 
+
+
 1. Go to `http://localhost:3000/` (Grafana UI).
 2. Add a new PostgreSQL data source with:
    - Host: `localhost:5434`
@@ -84,6 +86,10 @@ ORDER BY time
 ```
 
 ---
+
+## 📊 Real-Time Dashboard (Grafana)
+
+![Grafana Dashboard](images/Grafana.gif)
 
 ## 🧠 Technologies Used
 
